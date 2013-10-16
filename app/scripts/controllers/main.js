@@ -10,6 +10,7 @@ angular.module('JesusTakeTheWheelApp')
         $scope.gtfo = [
             'It will be okay',
             'Or it wont be',
+            'why is this not displaying shit...?'
         ];
     });
 
